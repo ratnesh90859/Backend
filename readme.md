@@ -71,7 +71,8 @@ bn: Bengali
 Installation & Setup
 
 1. Clone the repository:
-git clone <repository-url>
+```git clone https://github.com/ratnesh90859/Backend```
+```cd Backend```
 
 2.Install dependencies:
 ```npm install```
