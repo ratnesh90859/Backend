@@ -74,15 +74,19 @@ Installation & Setup
 git clone <repository-url>
 
 2.Install dependencies:
-npm install
+```npm install```
 
 3.Configure environment variables:
-MONGODB_URI=your_mongodb_uri
+```
+ MONGODB_URI=your_mongodb_uri
 GOOGLE_TRANSLATE_API_KEY=your_api_key
 PORT=5002
+```
 
 4.Start the server:
+```
 node server.js
+```
 
 
 
