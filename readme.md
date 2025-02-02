@@ -34,6 +34,7 @@ Additional Tools: Axios, Dotenv
 
 Project Structure
 
+```
 project_root/
   ├── server.js          # Application entry point
   ├── .env               # Environment configuration
@@ -43,8 +44,7 @@ project_root/
   │   └── faqRoutes.js
   └── controllers/       # Business logic
       └── faqController.js
-
-
+```
 
       API Documentation
      Create FAQ
