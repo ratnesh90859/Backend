@@ -72,6 +72,7 @@ Installation & Setup
 
 1. Clone the repository:
 ```git clone https://github.com/ratnesh90859/Backend```
+1.1
 ```cd Backend```
 
 2.Install dependencies:
